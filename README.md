@@ -2,12 +2,20 @@ Python Data Cleaning and Machine Learning modelling Repo:
 
 This repository provides a guide for data cleaning and machine learning modelling of different datasets using python.  
 
-**Overview of data cleaning and modelling for APS Failure at Scania Trucks**  
+**Overview of data cleaning and modelling for APS Failure at Scania Trucks project**  
 1- APS Failure and Operational Data for Scania Trucks has been downloaded from this page:  
 https://archive.ics.uci.edu/dataset/421/aps+failure+at+scania+trucks  
 2- data cleaning has been performed with different Imputation methods (SimpleImputer, KNNImputer) as well as treating imbalanced data with SMOTETomek method  
 3- APS Failure at Scania Trucks has been modelled with different ML boosting techniques (XGBClassifier,CatBoostClassifier,AdaBoostClassifier)  
 
+**Overview of the Energy Consumption forcasting project**  
+1- Downlaod hourly energy consumption data form kaggle:  
+ https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption  
+2-Feature Engeneering for time series data   
+3-Data modelling with XGBRegressor regression modelling  
+4-Data modelling with Dense Neural Network (DNN) and Autoencoder model  
+5-Data modelling with LSTM model  
+6-Data modelling with Conv1D, Conv1DTranspose  
 
 **Overview of data cleaning and modelling for wind-power project**   
 1-Downlaod wind power dataset form kaggle:    
