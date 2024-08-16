@@ -26,6 +26,14 @@ https://archive.ics.uci.edu/dataset/421/aps+failure+at+scania+trucks
 5-normalize data wtih MinMaxScaler() function  
 6-data modelling with regression modellings  
 
+
+**Overview of Telco Customer Churn data cleaning and modelling project**       
+1-Downlaod Telco churn dataset form kaggle:     
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data    
+2-Exploratory Data Analysis (EDA), data cleaning and transformation was performed     
+3-Imblanced dataset was handelled with under sampling or SMOTETomek techniques    
+4-binary classification was implemented with ANN method to predict behavior of customers in customer retention program    
+
 **Overview of data modelling using sklearn.datasets and Machine learning methods**  
 1-LinearRegression-SupportVectorMachine.ipynb: describes Linear Regression/Logistic Regression Modelling and Support Vector Machine methods    
 2-Clustering-knn.ipynb: describes Clustering (KMeans, AgglomerativeClustering, DBSCAN) and k-nearest neighbors votting Machine Learning algorithms    
