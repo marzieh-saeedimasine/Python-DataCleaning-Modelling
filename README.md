@@ -39,3 +39,4 @@ https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data
 2-Clustering-knn.ipynb: describes Clustering (KMeans, AgglomerativeClustering, DBSCAN) and k-nearest neighbors votting Machine Learning algorithms    
 3-DecisionTree-NaiveBayes.ipynb: describes Decision Tree and Gaussian Naive Bayes    
 4-FeatureSelection-Outlier.ipynb: describes Feature Selection/Extraction and Outlier Detection    
+5-NeuralNetwork-code.ipynb: implement Neural Network from scratch. It describes how to program model of neural network with one neuron and implement data for training and prediction    
