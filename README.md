@@ -34,9 +34,15 @@ https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data
 3-Imblanced dataset was handelled with under sampling or SMOTETomek techniques    
 4-binary classification was implemented with ANN method to predict behavior of customers in customer retention program    
 
-## Overview of data modelling using sklearn.datasets and Machine learning methods    
+
+## Overview of AutoML Machine learning modelling for Classification and Regression Projects   
+1- Here we use AutoML PyCaret to streamline the process of building and deploying machine learning models for both Classification and Regression Projects.    
+2- It tests and selects the best-performing models automatically.    
+
+
+## Overview of data modelling using sklearn.datasets and Machine learning methods      
 1-LinearRegression-SupportVectorMachine.ipynb: describes Linear Regression/Logistic Regression Modelling and Support Vector Machine methods      
 2-Clustering-knn.ipynb describes clustering methods (KMeans, Agglomerative Clustering, DBSCAN), methods to determine the optimal number of clusters (elbow method, silhouette score, gap statistics), and how to evaluate the quality of clustering (Dunn index and Rand index). In addition, it includes k-nearest neighbors voting machine learning algorithms.    
 3-DecisionTree-NaiveBayes.ipynb: describes Decision Tree and Gaussian Naive Bayes        
-4-FeatureSelection-Outlier.ipynb: describes Feature Selection has been explored with SelectKBest, ExtraTreeClassifier and LinearSVC modelling.   Feature extraction and visualization of high-dimensional data has been tested with PCA, t- SNE and Umap methods. Outlier Detection has been shown with quantile varience method        
-5-NeuralNetwork-code.ipynb: implement Neural Network from scratch. It describes how to program model of neural network with one neuron and implement data for training and prediction        
+4-FeatureSelection-Outlier.ipynb: describes Feature Selection has been explored with SelectKBest, ExtraTreeClassifier and LinearSVC modelling.   Feature extraction and visualization of high-dimensional data has been tested with PCA, t- SNE and Umap methods. Outlier Detection has been shown with quantile varience method. IsolationForest has also been used to detect anomalies or outliers           
+5-NeuralNetwork-code.ipynb: implement Neural Network from scratch. It describes how to program model of neural network with one neuron and implement data for training and prediction  
